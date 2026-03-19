@@ -2,7 +2,7 @@
 
 Convert JSON to YAML using the js-yaml library, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/json-to-yaml
+**Live Demo:** https://file-converter-free.com/en/developer-tools/json-to-yaml-online
 
 ## How It Works
 
